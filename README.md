@@ -1,3 +1,7 @@
+# 注意
+
+本仓库分叉于 [https://github.com/x-dr/telegraph-Image](https://github.com/x-dr/telegraph-Image) 并且已经进行了某些修改。
+
 # telegraph-Image
 
 
